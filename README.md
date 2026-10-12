@@ -1,1 +1,1 @@
-# Quizzes
+# Trivia
